@@ -1,0 +1,19 @@
+{
+  "name": "test-my-npm-package",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "demo-npm-ts-demo": "^1.2.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
